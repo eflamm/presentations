@@ -8,4 +8,6 @@
 
 [Use VS Code to Access SQL Server (July 2017)](https://github.com/eflamm/presentations/blob/master/Use%20Visual%20Studio%20Code%20to%20Access%20SQL%20Server.pptx)
 
+[Intro to AWS QuickSight (Preview) (July 2017)](https://github.com/eflamm/presentations/blob/master/Intro%20to%20Amazon%20QuickSight%20pub.pptx)
+
 *[public link](https://eflamm.github.io/presentations/)*
