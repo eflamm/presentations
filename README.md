@@ -1,5 +1,7 @@
 ## Eric Flamm's Presentations 
 
+[Azure Role-based Certification (Jan 2020)](https://github.com/eflamm/presentations/blob/master/Azure%20Role%20Based%20Certification.pptx)
+
 [A Brief Tour of Data Engineering](https://github.com/eflamm/presentations/blob/master/A%20Brief%20Tour%20of%20Data%20Engineering.pdf)
 
 [Intro to Azure Data Studio (SQL Saturday Columbus(GA) (Oct 2018)](https://github.com/eflamm/presentations/blob/master/Intro%20to%20Azure%20Data%20Studio-COL.pptx)
