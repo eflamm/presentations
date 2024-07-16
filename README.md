@@ -1,6 +1,6 @@
 ## Eric Flamm's Presentations 
 
-[Pilot to CoPilot: Using CoPilot in PowerPlatform (July 2024)]()
+[Pilot to CoPilot: Using CoPilot in PowerPlatform (July 2024)](https://github.com/eflamm/presentations/blob/master/Pilot%20to%20CoPilot(s).pptx)
 
 [Azure Role-based Certification (Jan 2020)](https://github.com/eflamm/presentations/blob/master/Azure%20Role%20Based%20Certification.pptx) [[pdf version]](https://github.com/eflamm/presentations/blob/master/Azure%20Role%20Based%20Certification.pdf)
 
