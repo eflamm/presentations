@@ -1,4 +1,5 @@
 ## Eric Flamm's Presentations 
+[Lightning Talk: Azure Infrastructure as Code - from Console to Bicep](Azure Infrastructure as Code.pptx)
 
 [Pilot to CoPilot: Using CoPilot in PowerPlatform (July 2024)](https://github.com/eflamm/presentations/blob/master/Pilot%20to%20CoPilot(s).pptx)
 
